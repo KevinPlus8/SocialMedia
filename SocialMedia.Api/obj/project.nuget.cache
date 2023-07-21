@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTM6bQlTi5YeNe0A7fcDcpIRafKJoMJNuPeKYbTIO2TSaS3Mf1j7hLvdfWQGoCzzagg8ME8NE8ZnD18T6LrqOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kcarrillo\\Desktop\\SocialMedia\\SocialMedia.Api\\SocialMedia.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kcarrillo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kcarrillo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kcarrillo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\kcarrillo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\kcarrillo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\kcarrillo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
